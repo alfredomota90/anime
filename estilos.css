@@ -82,7 +82,6 @@ nav li {
     width: 80%;
     padding: 5px;
 }
-
 .contenido h1 {
     width: 80%;
     margin: 0 auto;
@@ -107,6 +106,8 @@ nav li {
     transition-duration: .3s;
     transition-timing-function: ease-in;
     transition-delay: .5s;
+
+    
 }
 .imagen {
     width: 95%;
